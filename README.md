@@ -1,16 +1,12 @@
-## Hi there 👋
+# About me
 
-<!--
-**weizhoudev/weizhoudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C/C++.
+- 🌲 I want to be a outstanding and reliable engineer in the near future.
+- 📝 I have a certain foundation in English, but I am still continuously improving.
+- 🧍 My actual height in centimeters is around 178, slightly closer to 179.
+- 💪 I think I still need to build up some more muscle and gain around 30 pounds in weight.
+- 🏀 I am a total NBA fan.The Warriors are my favorite team.
+- 🖋 I also enjoy calligraphy.
+- 🎵 I like Pu Shu's music because it brings me peace and inner harmony.
+- 🏓 I can also play table tennis.
+- 💙 Blue is probably my favorite color.
